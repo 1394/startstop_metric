@@ -1,0 +1,18 @@
+{
+  "name": "startstop_metric",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1394/startstop_metric.git"
+  },
+  "keywords": ["logging", "metrics"],
+  "author": "dmitri letakhovski",
+  "email": "leto1394@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1394/startstop_metric/issues"
+  },
+  "homepage": "https://github.com/1394/startstop_metric#readme"
+}
